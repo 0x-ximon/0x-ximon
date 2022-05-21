@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Math and Coding**
 
-- ⚡ Fun fact **If you take a bite out of kilogram of steak, you just took a kilobite**
+- ⚡ Fun fact **If you take a bite out of kilogram of cake, you just took a kilobite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
