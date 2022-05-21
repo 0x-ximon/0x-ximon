@@ -30,6 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvien-code&show_icons=true&locale=en&layout=compact" alt="salvien-code" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en" alt="salvien-code" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvien-code&" alt="salvien-code" /></p>
-
