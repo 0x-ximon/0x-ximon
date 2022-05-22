@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Simon,</h1>
 <h3 align="center">A regular human.</h3>
 
-<p align="left"> <a href="https://twitter.com/sympli_simon" target="blank"><img src="https://img.shields.io/twitter/follow/sympli_simon?logo=twitter&style=for-the-badge" alt="sympli_simon" /></a> </p>
-
-### 🧰 Toolbox
-![PYTHON](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python) ![TYPESCRIPT](https://img.shields.io/badge/-typescript-lightgrey?style=for-the-badge&logo=typescript) ![RUST](https://img.shields.io/badge/-rust-informational?style=for-the-badge&logo=rust) ![SOLIDITY](https://img.shields.io/badge/-solidity-red?style=for-the-badge&logo=solidity) ![SQLITE](https://img.shields.io/badge/-sqlite-success?style=for-the-badge&logo=sqlite) ![REACT](https://img.shields.io/badge/-react-important?style=for-the-badge&logo=react) ![FLASK](https://img.shields.io/badge/-flask-blueviolet?style=for-the-badge&logo=flask) ![NUMPY](https://img.shields.io/badge/-numpy-red?style=for-the-badge&logo=numpy) ![EXPRESS](https://img.shields.io/badge/-express-informational?style=for-the-badge&logo=express) ![GIT](https://img.shields.io/badge/-git-yellow?style=for-the-badge&logo=git) ![LINUX](https://img.shields.io/badge/-linux-critical?style=for-the-badge&logo=linux) ![CIRCLECI](https://img.shields.io/badge/-circleci-blueviolet?style=for-the-badge&logo=circleci) ![DOCKER](https://img.shields.io/badge/-docker-yellow?style=for-the-badge&logo=docker) ![KUBERNETES](https://img.shields.io/badge/-kubernetes-lightgrey?style=for-the-badge&logo=kubernetes)
-
 ----
 
 - 💬 Ask me anything about **Coding, Trading and Math**
 
 - ⚡ Fun fact: **If you take a tiny bite out of a cake, you just took a kilobite.**
+
+----
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en" alt="salvien-code" /></p>
+
+----
+
+### 🧰 Toolbox
+![PYTHON](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python) ![TYPESCRIPT](https://img.shields.io/badge/-typescript-lightgrey?style=for-the-badge&logo=typescript) ![RUST](https://img.shields.io/badge/-rust-informational?style=for-the-badge&logo=rust) ![SOLIDITY](https://img.shields.io/badge/-solidity-red?style=for-the-badge&logo=solidity) ![SQLITE](https://img.shields.io/badge/-sqlite-success?style=for-the-badge&logo=sqlite) ![REACT](https://img.shields.io/badge/-react-important?style=for-the-badge&logo=react) ![FLASK](https://img.shields.io/badge/-flask-blueviolet?style=for-the-badge&logo=flask) ![NUMPY](https://img.shields.io/badge/-numpy-red?style=for-the-badge&logo=numpy) ![EXPRESS](https://img.shields.io/badge/-express-informational?style=for-the-badge&logo=express) ![GIT](https://img.shields.io/badge/-git-yellow?style=for-the-badge&logo=git) ![LINUX](https://img.shields.io/badge/-linux-critical?style=for-the-badge&logo=linux) ![CIRCLECI](https://img.shields.io/badge/-circleci-blueviolet?style=for-the-badge&logo=circleci) ![DOCKER](https://img.shields.io/badge/-docker-yellow?style=for-the-badge&logo=docker) ![KUBERNETES](https://img.shields.io/badge/-kubernetes-lightgrey?style=for-the-badge&logo=kubernetes)
 
 
 ----
@@ -26,9 +30,6 @@
 <a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salvien-code" height="30" width="40" /></a>
 </p>
 
------
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en" alt="salvien-code" /></p>
 
-----
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
