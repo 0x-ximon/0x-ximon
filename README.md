@@ -11,7 +11,15 @@
 
 - 💬 Ask me about **Math and Coding**
 
-- ⚡ Fun fact **If you take a tiny bite out of a cake, you just took a kilobite.**
+- ⚡ Fun fact, **If you take a tiny bite out of a cake, you just took a kilobite.**
+
+### 🧰 Toolbox
+![PYTHON](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python) ![TYPESCRIPT](https://img.shields.io/badge/-typescript-lightgrey?style=for-the-badge&logo=typescript) ![RUST](https://img.shields.io/badge/-rust-informational?style=for-the-badge&logo=rust) ![SOLIDITY](https://img.shields.io/badge/-solidity-red?style=for-the-badge&logo=solidity)
+
+
+
+
+
 
 ----
 
