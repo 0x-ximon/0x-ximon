@@ -14,7 +14,8 @@
 - ⚡ Fun fact, **If you take a tiny bite out of a cake, you just took a kilobite.**
 
 ### 🧰 Toolbox
-![PYTHON](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python) ![TYPESCRIPT](https://img.shields.io/badge/-typescript-lightgrey?style=for-the-badge&logo=typescript) ![RUST](https://img.shields.io/badge/-rust-informational?style=for-the-badge&logo=rust) ![SOLIDITY](https://img.shields.io/badge/-solidity-red?style=for-the-badge&logo=solidity) ![SQLITE](https://img.shields.io/badge/-sqlite-sucess?style=for-the-badge&logo=sqlite) ![REACT](https://img.shields.io/badge/-react-important?style=for-the-badge&logo=react) ![FLASK](https://img.shields.io/badge/-flask-blueviolet?style=for-the-badge&logo=flask)
+![PYTHON](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python) ![TYPESCRIPT](https://img.shields.io/badge/-typescript-lightgrey?style=for-the-badge&logo=typescript) ![RUST](https://img.shields.io/badge/-rust-informational?style=for-the-badge&logo=rust) ![SOLIDITY](https://img.shields.io/badge/-solidity-red?style=for-the-badge&logo=solidity) ![SQLITE](https://img.shields.io/badge/-sqlite-success?style=for-the-badge&logo=sqlite) ![REACT](https://img.shields.io/badge/-react-important?style=for-the-badge&logo=react) ![FLASK](https://img.shields.io/badge/-flask-blueviolet?style=for-the-badge&logo=flask) ![NUMPY](https://img.shields.io/badge/-numpy-red?style=for-the-badge&logo=numpy) ![EXPRESS](https://img.shields.io/badge/-express-informational?style=for-the-badge&logo=express) ![GIT](https://img.shields.io/badge/-git-yellow?style=for-the-badge&logo=git) ![HARDHAT](https://img.shields.io/badge/-hardhat-brightgreen?style=for-the-badge&logo=hardhat)
+
 
 
 
