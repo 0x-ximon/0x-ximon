@@ -19,18 +19,6 @@
 
 ----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/salviencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salviencode" height="30" width="40" /></a>
-<a href="https://twitter.com/sympli_simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympli_simon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ximon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19064733" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ximon" height="30" width="40" /></a>
-<a href="https://medium.com/@salviensky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salviensky" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salvien-code" height="30" width="40" /></a>
-</p>
-
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -43,3 +31,17 @@ MQL                   0 secs          ▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+----
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/salviencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salviencode" height="30" width="40" /></a>
+<a href="https://twitter.com/sympli_simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympli_simon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ximon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19064733" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ximon" height="30" width="40" /></a>
+<a href="https://medium.com/@salviensky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salviensky" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salvien-code" height="30" width="40" /></a>
+</p>
+
