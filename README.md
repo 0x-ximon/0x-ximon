@@ -3,9 +3,7 @@
 ----
 
 
-- 💬 Ask me anything about **Coding, Trading and Math**
-
-- ⚡ Fun fact: **If you take a tiny bite out of a cake, you just took a kilobite.**
+- ⚡ **If you take a tiny bite out of a cake, you just took a kilobite.**
 
 ----
 
