@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Simon,</h1>
-<h3 align="center">A regular human.</h3>
+<img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/Lightweight.gif" />
 
 ----
+
 
 - 💬 Ask me anything about **Coding, Trading and Math**
 
