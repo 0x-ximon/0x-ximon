@@ -2,13 +2,13 @@
 
 ----
 
+**If you take a bite out of a kilogram of steak, you just took a kilobite.**
 
-- ⚡ **If you take a tiny bite out of a cake, you just took a kilobite.**
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) 
 
 ----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en&theme=radical" alt="salvien-code" /></p>
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=salvien-code)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvien-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ----
 
 ### 🧰 Toolbox
