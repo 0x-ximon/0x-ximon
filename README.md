@@ -1,13 +1,13 @@
 <img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/Lightweight.gif" />
 
 ----
-**If you take a bite out of a kilogram of steak, you just took a kilobite.**
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) 
+
+- ⚡ **If you take a tiny bite out of a cake, you just took a kilobite.**
 
 ----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en" alt="salvien-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salvien-code&show_icons=true&locale=en&theme=radical" alt="salvien-code" /></p>
 
 ----
 
@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   53 mins         ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Rust         45 mins         ███████░░░░░░░░░░░░░░░░░░   27.88 %
-JavaScript   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Python       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-JSON         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Solidity     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Python       1 hr 36 mins    ████████▓░░░░░░░░░░░░░░░░   34.13 %
+TypeScript   1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   27.96 %
+Rust         45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+JavaScript   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
@@ -38,6 +38,8 @@ Solidity     7 mins          █░░░░░░░░░░░░░░░░
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/salviencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salviencode" height="30" width="40" /></a>
+<a href="https://twitter.com/sympli_simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympli_simon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ximon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19064733" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ximon" height="30" width="40" /></a>
 <a href="https://medium.com/@salviensky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salviensky" height="30" width="40" /></a>
