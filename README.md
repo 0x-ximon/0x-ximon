@@ -1,9 +1,9 @@
 <img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/Lightweight.gif" />
 
 ----
+**If you take a bite out of a kilogram of steak, you just took a kilobite.**
 
-
-- ⚡ **If you take a tiny bite out of a cake, you just took a kilobite.**
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) 
 
 ----
 
@@ -38,8 +38,6 @@ Solidity     7 mins          █░░░░░░░░░░░░░░░░
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/salviencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salviencode" height="30" width="40" /></a>
-<a href="https://twitter.com/sympli_simon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympli_simon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ximon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19064733" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ximon" height="30" width="40" /></a>
 <a href="https://medium.com/@salviensky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salviensky" height="30" width="40" /></a>
