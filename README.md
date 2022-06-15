@@ -4,7 +4,7 @@
 
 **If you take a bite out of a kilogram of steak, you just took a kilobite.**
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) [![Developer Portfolio](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://simon-samuel.netlify.app/) [![Writer Portfolio ](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://clippings.me/simon-samuel) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) 
 
 ----
 
