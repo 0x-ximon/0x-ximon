@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
-TypeScript   5 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.16 %
-Python       1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Solidity     1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JSON         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Git Config   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript   5 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 %
+TypeScript   4 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+Python       1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Solidity     1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+JSON         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Git Config   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
