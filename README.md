@@ -39,4 +39,4 @@
 [![LICHESS](https://img.shields.io/badge/-Lichess-orange?style=social&logo=lichess)](https://lichess.org/@/Simon_ximon)
 [![STACK OVERFLOW](https://img.shields.io/badge/-Stack%20Overflow-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/19064733)
 [![HASHNODE](https://img.shields.io/badge/-HashNode-orange?style=social&logo=hashnode)](https://hashnode.com/@ximon)
-[![DEV](https://img.shields.io/badge/-Dev-orange?style=social&logo=dev.to)](https://dev.to/salviencode/)
+[![DEV](https://img.shields.io/badge/-Dev.to-orange?style=social&logo=dev.to)](https://dev.to/salviencode/)
