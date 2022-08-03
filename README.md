@@ -14,22 +14,22 @@
 ----
 
 ### 🧰 Toolbox
-![PYTHON](https://img.shields.io/badge/Language-Python-%233776AB?style=plastic&logo=python&logoColor=%23ffffff)
-![TYPESCRIPT](https://img.shields.io/badge/Language-Typescript-%233178C6?style=plastic&logo=typescript&logoColor=%23ffffff)
-![SOLIDITY](https://img.shields.io/badge/Language-Solidity-%23363636?style=plastic&logo=solidity&logoColor=%23ffffff)
-![RUST](https://img.shields.io/badge/Language-Rust-%23000000?style=plastic&logo=rust&logoColor=%23ffffff)
-![GO](https://img.shields.io/badge/Language-Go-%2300ADD8?style=plastic&logo=go&logoColor=%23ffffff)
-![SQL](https://img.shields.io/badge/Language-SQL-%234479A1?style=plastic&logo=mysql&logoColor=%23ffffff)
-![BASH](https://img.shields.io/badge/Language-Bash-%234EAA25?style=plastic&logo=gnubash&logoColor=%23ffffff)
-![GIT](https://img.shields.io/badge/Tool-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
-![NEXT](https://img.shields.io/badge/Tool-Next-%23000000?style=plastic&logo=next.js&logoColor=%23ffffff) 
-![FIREBASE](https://img.shields.io/badge/Tool-Firebase-%23FFCA28?style=plastic&logo=firebase&logoColor=%23ffffff)
-![DOCKER](https://img.shields.io/badge/Tool-Docker-%232496ED?style=plastic&logo=docker&logoColor=%23ffffff)
-![CIRCLECI](https://img.shields.io/badge/Tool-Circle%20CI-%232496ED?style=plastic&logo=circleci&logoColor=%23ffffff)
-![KUBERNETES](https://img.shields.io/badge/Tool-Kubernetes-%23326CE5?style=plastic&logo=kubernetes&logoColor=%23ffffff) 
-![ETHEREUM](https://img.shields.io/badge/Tech-Ethereum-%233C3C3D?style=plastic&logo=ethereum&logoColor=%23ffffff)
-![GOOGLE CLOUD](https://img.shields.io/badge/Tech-Google%20Cloud-%234285F4?style=plastic&logo=googlecloud&logoColor=%23ffffff)
-![DIGITAL OCEAN](https://img.shields.io/badge/Tech-DigitalOcean-%230080FF?style=plastic&logo=digitalocean&logoColor=%23ffffff) 
+![PYTHON](https://img.shields.io/badge/Language-Python-%23ffffff?style=plastic&logo=python&logoColor=%233776AB)
+![TYPESCRIPT](https://img.shields.io/badge/Language-Typescript-%23ffffff?style=plastic&logo=typescript&logoColor=%233178C6)
+![SOLIDITY](https://img.shields.io/badge/Language-Solidity-%23ffffff?style=plastic&logo=solidity&logoColor=%23363636)
+![RUST](https://img.shields.io/badge/Language-Rust-%23ffffff?style=plastic&logo=rust&logoColor=%23000000)
+![GO](https://img.shields.io/badge/Language-Go-%23ffffff?style=plastic&logo=go&logoColor=%2300ADD8)
+![SQL](https://img.shields.io/badge/Language-SQL-%23ffffff?style=plastic&logo=mysql&logoColor=%234479A1)
+![BASH](https://img.shields.io/badge/Language-Bash-%23ffffff?style=plastic&logo=gnubash&logoColor=%234EAA25)
+![GIT](https://img.shields.io/badge/Tool-Git-%23ffffff?style=plastic&logo=git&logoColor=%23F05032)
+![NEXT](https://img.shields.io/badge/Tool-Next-%23ffffff?style=plastic&logo=next.js&logoColor=%23000000) 
+![FIREBASE](https://img.shields.io/badge/Tool-Firebase-%23ffffff?style=plastic&logo=firebase&logoColor=%23FFCA28)
+![DOCKER](https://img.shields.io/badge/Tool-Docker-%23ffffff?style=plastic&logo=docker&logoColor=%232496ED)
+![CIRCLECI](https://img.shields.io/badge/Tool-Circle%20CI-%23ffffff?style=plastic&logo=circleci&logoColor=%232496ED)
+![KUBERNETES](https://img.shields.io/badge/Tool-Kubernetes-%23ffffff?style=plastic&logo=kubernetes&logoColor=%23326CE5) 
+![ETHEREUM](https://img.shields.io/badge/Tech-Ethereum-%23ffffff?style=plastic&logo=ethereum&logoColor=%233C3C3D)
+![GOOGLE CLOUD](https://img.shields.io/badge/Tech-Google%20Cloud-%23ffffff?style=plastic&logo=googlecloud&logoColor=%234285F4)
+![DIGITAL OCEAN](https://img.shields.io/badge/Tech-DigitalOcean-%23ffffff?style=plastic&logo=digitalocean&logoColor=%230080FF) 
 ----
 
 ### Connect with Me:
