@@ -32,11 +32,11 @@
 ![DIGITAL OCEAN](https://img.shields.io/badge/Tech-DigitalOcean-%230080FF?style=plastic&logo=digitalocean&logoColor=%23ffffff) 
 ----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Discord.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Stack_Overflow.svg" alt="19064733" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/HashNode.svg" alt="@ximon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/LeetCode.svg" alt="salvien-code" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Reddit.svg" alt="salvien-code" height="30" width="40" /></a>
-</p>
+### Connect with Me:
+[![REDDIT](https://img.shields.io/badge/-Reddit-%23FF4500?style=social&logo=reddit)](https://www.reddit.com/user/simon_ximon/)
+[![DISCORD](https://img.shields.io/badge/-Discord-orange?style=social&logo=discord)]()
+[![LEETCODE](https://img.shields.io/badge/-LeetCode-orange?style=social&logo=leetcode)](https://www.leetcode.com/salvien-code)
+[![LICHESS](https://img.shields.io/badge/-Lichess-orange?style=social&logo=lichess)](https://lichess.org/@/Simon_ximon)
+[![STACK OVERFLOW](https://img.shields.io/badge/-Stack%20Overflow-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/19064733)
+[![HASHNODE](https://img.shields.io/badge/-HashNode-orange?style=social&logo=hashnode)](https://hashnode.com/@ximon)
+[![DEV](https://img.shields.io/badge/-Dev-orange?style=social&logo=dev.to)](https://dev.to/salviencode/)
