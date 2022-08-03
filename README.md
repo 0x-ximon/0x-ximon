@@ -29,15 +29,14 @@
 ![KUBERNETES](https://img.shields.io/badge/Tool-Kubernetes-%23326CE5?style=plastic&logo=kubernetes&logoColor=%23ffffff) 
 ![ETHEREUM](https://img.shields.io/badge/Tech-Ethereum-%233C3C3D?style=plastic&logo=ethereum&logoColor=%23ffffff)
 ![GOOGLE CLOUD](https://img.shields.io/badge/Tech-Google%20Cloud-%234285F4?style=plastic&logo=googlecloud&logoColor=%23ffffff)
-![DIGITAL OCEAN](https://img.shields.io/badge/Tech-Digitalocean-%230080FF?style=plastic&logo=digitalocean&logoColor=%23ffffff) 
+![DIGITAL OCEAN](https://img.shields.io/badge/Tech-DigitalOcean-%230080FF?style=plastic&logo=digitalocean&logoColor=%23ffffff) 
 ----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/salviencode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="salviencode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ximon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19064733" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ximon" height="30" width="40" /></a>
-<a href="https://medium.com/@salviensky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salviensky" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salvien-code" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Discord.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19064733" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Stack_Overflow.svg" alt="19064733" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ximon" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/HashNode.svg" alt="@ximon" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/LeetCode.svg" alt="salvien-code" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salvien-code" target="blank"><img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/SVG/Reddit.svg" alt="salvien-code" height="30" width="40" /></a>
 </p>
