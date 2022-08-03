@@ -1,8 +1,7 @@
 <img align="center" src="https://github.com/Salvien-code/Heavy/blob/main/Lightweight.gif" />
 
 ----
-
-**If you take a bite out of a kilogram of steak, you just took a kilobite.**
+> Favorite Dad Joke: <span style="font-family:Papyrus">"If you take a bite out of a kilogram of steak, you just took a kilobite."</span>
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF)](mailto:salviensky@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF)](https://linkedin.com/in/ximon/) 
@@ -25,8 +24,9 @@
 ![NEXT](https://img.shields.io/badge/Tool-Next-%23ffffff?style=plastic&logo=next.js&logoColor=%23000000) 
 ![FIREBASE](https://img.shields.io/badge/Tool-Firebase-%23ffffff?style=plastic&logo=firebase&logoColor=%23FFCA28)
 ![DOCKER](https://img.shields.io/badge/Tool-Docker-%23ffffff?style=plastic&logo=docker&logoColor=%232496ED)
-![CIRCLECI](https://img.shields.io/badge/Tool-Circle%20CI-%23ffffff?style=plastic&logo=circleci&logoColor=%232496ED)
+![CIRCLECI](https://img.shields.io/badge/Tool-Circle%20CI-%23ffffff?style=plastic&logo=circleci&logoColor=%23343434)
 ![KUBERNETES](https://img.shields.io/badge/Tool-Kubernetes-%23ffffff?style=plastic&logo=kubernetes&logoColor=%23326CE5) 
+![ARGOCD](https://img.shields.io/badge/Tool-Argo%20CD-%23ffffff?style=plastic&logo=argo&logoColor=%23EF7B4D)
 ![ETHEREUM](https://img.shields.io/badge/Tech-Ethereum-%23ffffff?style=plastic&logo=ethereum&logoColor=%233C3C3D)
 ![GOOGLE CLOUD](https://img.shields.io/badge/Tech-Google%20Cloud-%23ffffff?style=plastic&logo=googlecloud&logoColor=%234285F4)
 ![DIGITAL OCEAN](https://img.shields.io/badge/Tech-DigitalOcean-%23ffffff?style=plastic&logo=digitalocean&logoColor=%230080FF) 
