@@ -9,7 +9,7 @@
 ----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salvien-code&count_private=true&include_all_commits&show_icons=true&theme=github_dark)
-![Simon's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark)
+
 ----
 
 ### 🧰 Toolbox
