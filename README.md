@@ -23,10 +23,7 @@
 ![NEXT.js](https://img.shields.io/badge/Tool-Next.js-D3D3D3?style=plastic&logo=next.js&logoColor=000000)
 ![NEST.js](https://img.shields.io/badge/Tool-Nest.js-D3D3D3?style=plastic&logo=nestJs&logoColor=E0234E)
 ![DOCKER](https://img.shields.io/badge/Tool-Docker-D3D3D3?style=plastic&logo=docker&logoColor=2496ED)
-![CIRCLECI](https://img.shields.io/badge/Tool-Circle%20CI-D3D3D3?style=plastic&logo=circleci&logoColor=343434)
-![KUBERNETES](https://img.shields.io/badge/Tool-Kubernetes-D3D3D3?style=plastic&logo=kubernetes&logoColor=326CE5) 
 ![ETHEREUM](https://img.shields.io/badge/Tech-Ethereum-D3D3D3?style=plastic&logo=ethereum&logoColor=3C3C3D)
-![GOOGLE CLOUD](https://img.shields.io/badge/Tech-Google%20Cloud-D3D3D3?style=plastic&logo=googlecloud&logoColor=4285F4)
 ----
 
 ### Connect with Me:
