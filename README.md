@@ -13,8 +13,8 @@
 ----
 
 ### 🧰 Toolbox
-![PYTHON](https://img.shields.io/badge/Language-Python-D3D3D3?style=plastic&logo=python&logoColor=3776AB)
 ![TYPESCRIPT](https://img.shields.io/badge/Language-Typescript-D3D3D3?style=plastic&logo=typescript&logoColor=3178C6)
+![PYTHON](https://img.shields.io/badge/Language-Python-D3D3D3?style=plastic&logo=python&logoColor=3776AB)
 ![SOLIDITY](https://img.shields.io/badge/Language-Solidity-D3D3D3?style=plastic&logo=solidity&logoColor=363636)
 ![RUST](https://img.shields.io/badge/Language-Rust-D3D3D3?style=plastic&logo=rust&logoColor=000000)
 ![GO](https://img.shields.io/badge/Language-Go-D3D3D3?style=plastic&logo=go&logoColor=00ADD8)
