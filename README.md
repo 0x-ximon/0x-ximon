@@ -8,8 +8,8 @@
 [![Upwork](https://img.shields.io/badge/upwork-44CE29?style=for-the-badge&logo=upwork&logoColor=FFFFFF)](https://www.upwork.com/freelancers/~01a978578ae872ab32) 
 ----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salvien-code&count_private=true&include_all_commits&show_icons=true&theme=github_dark)
-![Simon's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark&custom_title=Simon's%20Wakatime%20Stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=salvien-code&count_private=true&show_icons=true&theme=github_dark&card_width=400&hide_title=true)
+![Simon's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark&hide_title=true)
 ----
 
 ### 🧰 Toolbox
