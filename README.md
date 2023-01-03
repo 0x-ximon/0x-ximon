@@ -4,8 +4,7 @@
 > Favorite Dad Joke: <span style="font-family:Papyrus">"If you take a bite out of a kilogram of steak, you just took a kilobite."</span>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:salviensky@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/) 
-[![Upwork](https://img.shields.io/badge/upwork-44CE29?style=for-the-badge&logo=upwork&logoColor=FFFFFF)](https://www.upwork.com/freelancers/~01a978578ae872ab32) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/)
 ----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salvien-code&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true)
@@ -18,8 +17,6 @@
 ![SOLIDITY](https://img.shields.io/badge/Language-Solidity-D3D3D3?style=plastic&logo=solidity&logoColor=363636)
 ![RUST](https://img.shields.io/badge/Language-Rust-D3D3D3?style=plastic&logo=rust&logoColor=000000)
 ![GO](https://img.shields.io/badge/Language-Go-D3D3D3?style=plastic&logo=go&logoColor=00ADD8)
-![SQL](https://img.shields.io/badge/Language-SQL-D3D3D3?style=plastic&logo=mysql&logoColor=4479A1)
-![GIT](https://img.shields.io/badge/Tool-Git-D3D3D3?style=plastic&logo=git&logoColor=F05032)
 ![NEXT.js](https://img.shields.io/badge/Tool-Next.js-D3D3D3?style=plastic&logo=next.js&logoColor=000000)
 ![NEST.js](https://img.shields.io/badge/Tool-Nest.js-D3D3D3?style=plastic&logo=nestJs&logoColor=E0234E)
 ![DOCKER](https://img.shields.io/badge/Tool-Docker-D3D3D3?style=plastic&logo=docker&logoColor=2496ED)
