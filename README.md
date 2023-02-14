@@ -4,8 +4,12 @@
 
 > Favorite Dad Joke: <span style="font-family:Papyrus">"If you take a bite out of a kilogram of steak, you just took a kilobite."</span>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:salviensky@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/)
+[![DEV.TO](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://dev.to/simon_ximon/)
+[![DISCORD](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/9cHrwwkE)
+[![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF)](https://www.reddit.com/user/simon_ximon/)
+[![LICHESS](https://img.shields.io/badge/-Lichess-000000?style=for-the-badge&logo=lichess&logoColor=FFFFFF)](https://lichess.org/@/Simon_ximon)
+[![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://www.leetcode.com/salvien-code)
 
 ----
 
@@ -33,12 +37,3 @@
 ![ETHEREUM](https://img.shields.io/badge/Ethereum-D3D3D3?style=flat-square&logo=ethereum&logoColor=3C3C3D)
 ![NEOVIM](https://img.shields.io/badge/Neovim-D3D3D3?style=flat-square&logo=neovim&logoColor=57A143)
 ![LINUX](https://img.shields.io/badge/Linux-D3D3D3?style=flat-square&logo=linux&logoColor=FCC624)
-
-----
-
-### Connect with Me:
-[![DISCORD](https://img.shields.io/badge/-Discord-FF4500?style=social&logo=discord)](https://discord.gg/9cHrwwkE)
-[![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=social&logo=reddit)](https://www.reddit.com/user/simon_ximon/)
-[![MEDIUM](https://img.shields.io/badge/-Medium-orange?style=social&logo=medium)](https://simon-ximon.medium.com/)
-[![LEETCODE](https://img.shields.io/badge/-LeetCode-orange?style=social&logo=leetcode)](https://www.leetcode.com/salvien-code)
-[![LICHESS](https://img.shields.io/badge/-Lichess-orange?style=social&logo=lichess)](https://lichess.org/@/Simon_ximon)
