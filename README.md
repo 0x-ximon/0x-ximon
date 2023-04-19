@@ -13,7 +13,7 @@
 
 ----
 
-![GitHub stats](https://github-readme-stats-salvien-code.vercel.app/api?username=salvien-code&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true)
+![GitHub stats](https://github-readme-stats-salvien-code.vercel.app/api?username=ximon-x&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true)
 ![Simon's Coding stats](https://github-readme-stats-salvien-code.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark&hide_title=true)
 
 ----
