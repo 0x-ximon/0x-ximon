@@ -1,4 +1,4 @@
-<img src="https://github.com/Salvien-code/Heavy/blob/main/Lightweight.gif" />
+<img src="https://github.com/ximon-x/Heavy/blob/main/Lightweight.gif" />
 
 ----
 
