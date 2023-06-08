@@ -6,11 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/)
 [![DEV.TO](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://dev.to/simon_ximon/)
-[![DISCORD](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/9cHrwwkE)
 [![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF)](https://www.reddit.com/user/simon_ximon/)
-[![LICHESS](https://img.shields.io/badge/-Lichess-000000?style=for-the-badge&logo=lichess&logoColor=FFFFFF)](https://lichess.org/@/Simon_ximon)
 [![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://www.leetcode.com/salvien-code)
-
+[![LICHESS](https://img.shields.io/badge/-Lichess-000000?style=for-the-badge&logo=lichess&logoColor=FFFFFF)](https://lichess.org/@/Simon_ximon)
+[![HASHNODE](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=FFFFFF)](https://ximon.hashnode.dev/)
 ----
 
 ![GitHub stats](https://github-readme-stats-salvien-code.vercel.app/api?username=ximon-x&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true)
