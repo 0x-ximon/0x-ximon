@@ -12,7 +12,13 @@
 [![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF)](https://www.reddit.com/user/simon_ximon/)
 ----
 
-![GitHub stats](https://github-readme-stats-salvien-code.vercel.app/api?username=ximon-x&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ximon-x&count_private=true&show_icons=true&theme=github_dark&card_width=495&hide_title=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ximon-x&count_private=true&show_icons=true&theme=github_light&card_width=495&hide_title=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
+
 ![Simon's Coding stats](https://github-readme-stats-salvien-code.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark&hide_title=true&range=last_7_days)
 
 ----
