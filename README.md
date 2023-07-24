@@ -35,6 +35,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D3D3D3?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat-square&logo=python&logoColor=3776AB)
 ![LUA](https://img.shields.io/badge/Lua-D3D3D3?style=flat-square&logo=lua&logoColor=2C2D72)
+![ELIXIR](https://img.shields.io/badge/Elixir-D3D3D3?style=flat-square&logo=elixir&logoColor=4B275F)
 ![HTML](https://img.shields.io/badge/HTML-D3D3D3?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-D3D3D3?style=flat-square&logo=css3&logoColor=1572B6)
 ![TAILWIND](https://img.shields.io/badge/Tailwind-D3D3D3?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
