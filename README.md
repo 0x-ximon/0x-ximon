@@ -26,6 +26,7 @@
 [![Simon's Coding Stats](https://ximon-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_light&hide_title=true&range=last_7_days#gh-light-mode-only)](https://github.com/ximon-x/github-readme#gh-light-mode-only)
 
 </div>
+
 ----
 
 ### 🧰 Toolbox
