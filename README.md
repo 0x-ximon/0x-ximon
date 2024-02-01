@@ -11,11 +11,11 @@
 <div align=center>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/)
-[![DEV.TO](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://dev.to/simon_ximon/)
 [![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://www.leetcode.com/salvien-code)
-[![LICHESS](https://img.shields.io/badge/-Lichess-FFFFFF?style=for-the-badge&logo=lichess&logoColor=000000)](https://lichess.org/@/Simon_ximon)
-[![MEDIUM](https://img.shields.io/badge/-Medium-2962FF?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://simon-ximon.medium.com/)
+[![MEDIUM](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://simon-ximon.medium.com/)
+[![DEV.TO](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FFFFFF)](https://dev.to/simon_ximon/)
 [![REDDIT](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FFFFFF)](https://www.reddit.com/user/simon_ximon/)
+[![LDISCORD](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/841833456241868801)
 
 
   
