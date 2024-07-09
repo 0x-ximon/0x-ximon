@@ -37,6 +37,7 @@
 ![ZIG](https://img.shields.io/badge/Zig-D3D3D3?style=flat&logo=zig&logoColor=F7A41D)
 ![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat&logo=python&logoColor=3776AB)
 ![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat&logo=solidity&logoColor=363636)
+![PHP](https://img.shields.io/badge/PHP-D3D3D3?style=flat&logo=php&logoColor=777BB4)
 ![DART](https://img.shields.io/badge/Dart-D3D3D3?style=flat&logo=dart&logoColor=0175C2)
 ![LUA](https://img.shields.io/badge/Lua-D3D3D3?style=flat&logo=lua&logoColor=2C2D72)
 ![HASKELL](https://img.shields.io/badge/Haskell-D3D3D3?style=flat&logo=haskell&logoColor=5D4F85)
