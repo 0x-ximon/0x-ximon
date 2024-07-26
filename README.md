@@ -38,7 +38,7 @@
 [![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat&logo=python&logoColor=3776AB)]()
 [![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat&logo=solidity&logoColor=363636)]()
 [![DART](https://img.shields.io/badge/Dart-D3D3D3?style=flat&logo=dart&logoColor=0175C2)]()
-[![LUA](https://img.shields.io/badge/Lua-D3D3D3?style=flat&logo=lua&logoColor=2C2D72)]()
+[![KOTLIN](https://img.shields.io/badge/Kotlin-D3D3D3?style=flat&logo=kotlin&logoColor=7F52FF)]()
 [![SCALA](https://img.shields.io/badge/Scala-D3D3D3?style=flat&logo=scala&logoColor=DC322F)]()
 [![HASKELL](https://img.shields.io/badge/Haskell-D3D3D3?style=flat&logo=haskell&logoColor=5D4F85)]()
 
