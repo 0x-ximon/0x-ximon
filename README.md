@@ -29,25 +29,30 @@
 
 <div align=center>
 
-[![TYPESCRIPT](https://img.shields.io/badge/Typescript-D3D3D3?style=flat&logo=typescript&logoColor=3178C6)]()
-[![RUST](https://img.shields.io/badge/Rust-D3D3D3?style=flat&logo=rust&logoColor=000000)]()
-[![GO](https://img.shields.io/badge/Go-D3D3D3?style=flat&logo=go&logoColor=00ADD8)]()
-[![CPP](https://img.shields.io/badge/C++-D3D3D3?style=flat&logo=cplusplus&logoColor=00599C)]()
-[![JAVA](https://img.shields.io/badge/Java-D3D3D3?style=flat&logo=openjdk&logoColor=437291)]()
-[![ZIG](https://img.shields.io/badge/Zig-D3D3D3?style=flat&logo=zig&logoColor=F7A41D)]()
-[![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat&logo=python&logoColor=3776AB)]()
-[![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat&logo=solidity&logoColor=363636)]()
-[![DART](https://img.shields.io/badge/Dart-D3D3D3?style=flat&logo=dart&logoColor=0175C2)]()
-[![KOTLIN](https://img.shields.io/badge/Kotlin-D3D3D3?style=flat&logo=kotlin&logoColor=7F52FF)]()
-[![SCALA](https://img.shields.io/badge/Scala-D3D3D3?style=flat&logo=scala&logoColor=DC322F)]()
-[![HASKELL](https://img.shields.io/badge/Haskell-D3D3D3?style=flat&logo=haskell&logoColor=5D4F85)]()
+[![NEOVIM](https://img.shields.io/badge/Neovim-D3D3D3?style=flat&logo=neovim&logoColor=57A143)]()
+[![LINUX](https://img.shields.io/badge/Linux-D3D3D3?style=flat&logo=linux&logoColor=FCC624)]()
+[![EMACS](https://img.shields.io/badge/Emacs-D3D3D3?style=flat&logo=gnuemacs&logoColor=7F5AB6)]()
 
 </div>
 
 <div align=center>
 
-[![NEOVIM](https://img.shields.io/badge/Neovim-D3D3D3?style=flat&logo=neovim&logoColor=57A143)]()
-[![LINUX](https://img.shields.io/badge/Linux-D3D3D3?style=flat&logo=linux&logoColor=FCC624)]()
-[![EMACS](https://img.shields.io/badge/Emacs-D3D3D3?style=flat&logo=gnuemacs&logoColor=7F5AB6)]()
+[![RUST](https://img.shields.io/badge/Rust-D3D3D3?style=flat&logo=rust&logoColor=000000)]()
+[![GO](https://img.shields.io/badge/Go-D3D3D3?style=flat&logo=go&logoColor=00ADD8)]()
+[![TYPESCRIPT](https://img.shields.io/badge/Typescript-D3D3D3?style=flat&logo=typescript&logoColor=3178C6)]()
+[![CPP](https://img.shields.io/badge/C++-D3D3D3?style=flat&logo=cplusplus&logoColor=00599C)]()
+[![JAVA](https://img.shields.io/badge/Java-D3D3D3?style=flat&logo=openjdk&logoColor=437291)]()
+
+</div>
+
+<div align=center>
+
+[![PYTHON](https://img.shields.io/badge/Python-D3D3D3?style=flat&logo=python&logoColor=3776AB)]()  
+[![SOLIDITY](https://img.shields.io/badge/Solidity-D3D3D3?style=flat&logo=solidity&logoColor=363636)]()
+[![PHP](https://img.shields.io/badge/PHP-D3D3D3?style=flat&logo=php&logoColor=#777BB4)]()
+[![ZIG](https://img.shields.io/badge/Zig-D3D3D3?style=flat&logo=zig&logoColor=F7A41D)]()
+[![DART](https://img.shields.io/badge/Dart-D3D3D3?style=flat&logo=dart&logoColor=0175C2)]()
+[![KOTLIN](https://img.shields.io/badge/Kotlin-D3D3D3?style=flat&logo=kotlin&logoColor=7F52FF)]()
+[![SWIFT](https://img.shields.io/badge/Swift-D3D3D3?style=flat&logo=swift&logoColor=F05138)]()
 
 </div>
