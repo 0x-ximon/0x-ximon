@@ -9,8 +9,7 @@
 ----
 
 <div align=center>
-  
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/ximon/)
+
 [![MEDIUM](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://ximon-x.medium.com/)
 [![HASHNODE](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=FFFFFF)](https://ximon.hashnode.dev)
 
