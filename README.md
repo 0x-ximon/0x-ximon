@@ -4,7 +4,7 @@
 
 ----
 
-> Favorite Dad Joke: <span style="font-family:Papyrus">"If you take a bite out of a kilogram of steak, you just took a kilobite."</span>
+> Favorite Dad Joke: <span style="font-family:Papyrus">"If you take a bite out a kilogram of steak, you just took a kilobite."</span>
 
 ----
 
