@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ximon-x/Heavy/blob/main/Banner.gif" />
+  <img src="https://github.com/0x-ximon/Heavy/blob/main/Banner.gif" />
 </p>
 
 ----
