@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/0x-ximon/Heavy/blob/main/Banner.gif" />
+  <img src="https://assets.ximon.dev/banner.gif" />
 </p>
 
 <div align=center>
