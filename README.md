@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://assets.ximon.dev/banner.gif" />
-</p>
+<div align="center">
+  <img src="https://assets.ximon.dev/banner.gif" alt="Banner" />
+</div>
+
+![Alt Text for Banner](https://assets.ximon.dev/banner.gif)
 
 <div align=center>
   
