@@ -25,8 +25,21 @@ jobs:
              "hide_title":"true",
              "show_icons":"true",
              "rank_icon":"github"}
-          path: profile/stats_dark.svg
+          path: profile/stats.svg
           token: ${{ secrets.PAT }}
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: >
+            {"username":"ximon",
+             "theme":"transparent",
+             "hide_title":"true",
+             "range":"last_7_days",
+             "langs_count":"5"}
+          path: profile/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
