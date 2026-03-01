@@ -1,4 +1,4 @@
-name: Update README cards
+name: Stats Workflow
 
 on:
   schedule:
@@ -15,30 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate Dark Stats Card
+      - name: Generate Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: >
             {"username":"${{ github.repository_owner }}",
-             "theme":"github_dark",
+             "theme":"transparent",
              "hide_title":"true",
              "show_icons":"true",
              "rank_icon":"github"}
           path: profile/stats_dark.svg
-          token: ${{ secrets.PAT }}
-
-      - name: Generate Light Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: >
-            {"username":"${{ github.repository_owner }}",
-             "theme":"github_light",
-             "hide_title":"true",
-             "show_icons":"true",
-             "rank_icon":"github"}
-          path: profile/stats_light.svg
           token: ${{ secrets.PAT }}
 
       - name: Commit cards
