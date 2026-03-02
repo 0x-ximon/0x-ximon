@@ -6,6 +6,12 @@
 
 ---
 
+<div align="center">
+"In theory, theory and practice are the same. In practice, they’re not."
+</div>
+
+---
+
 <div align=center>
 
 ![Stats Dark](profile/stats_dark.svg#gh-dark-mode-only)
