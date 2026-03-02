@@ -1,8 +1,8 @@
-name: Stats Workflow
+name: README Workflow
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 5,17 * * *"
   workflow_dispatch:
 
 jobs:
