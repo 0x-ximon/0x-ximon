@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="/banner.gif" alt="Banner" />
+
+![Banner](banner.gif)
+
 </div>
 
 ---
