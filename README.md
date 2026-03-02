@@ -5,14 +5,11 @@
 ---
 
 <div align=center>
-  
-<!-- [![Simon's Dark Stats](https://ximon-readme-stats.vercel.app/api?username=0x-ximon&theme=github_dark&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-dark-mode-only)](https://github.com/0x-ximon/github-readme-stats#gh-dark-mode-only)
-[![Simon's Light Stats](https://ximon-readme-stats.vercel.app/api?username=0x-ximon&theme=github_light&card_width=495&hide_title=true&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/0x-ximon/github-readme-stats#gh-light-mode-only)
-  
-[![Simon's Coding Stats](https://ximon-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_dark&hide_title=true&range=last_7_days#gh-dark-mode-only)](https://github.com/0x-ximon/github-readme#gh-dark-mode-only)
-[![Simon's Coding Stats](https://ximon-readme-stats.vercel.app/api/wakatime?username=ximon&langs_count=5&theme=github_light&hide_title=true&range=last_7_days#gh-light-mode-only)](https://github.com/0x-ximon/github-readme#gh-light-mode-only) -->
 
-![Stats](./profile/stats.svg)
-![Wakatime](./profile/wakatime.svg)
+![Stats Dark](profile/stats_dark.svg#gh-dark-mode-only)
+![Stats Light](profile/stats_light.svg#gh-light-mode-only)
+
+![Wakatime Dark](profile/wakatime_dark.svg#gh-dark-mode-only)
+![Wakatime Light](profile/wakatime_light.svg#gh-light-mode-only)
 
 </div>

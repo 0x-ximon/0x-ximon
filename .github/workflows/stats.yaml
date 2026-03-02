@@ -15,30 +15,58 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate Stats Card
+      - name: Generate Light Stats Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: >
             {"username":"${{ github.repository_owner }}",
-             "theme":"transparent",
+             "theme":"default",
              "hide_title":"true",
+             "card_width":"495",
              "show_icons":"true",
              "rank_icon":"github"}
-          path: profile/stats.svg
+          path: profile/stats_light.svg
           token: ${{ secrets.PAT }}
 
-      - name: Generate Stats Card
+      - name: Generate Dark Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: >
+            {"username":"${{ github.repository_owner }}",
+             "theme":"github_dark",
+             "hide_title":"true",
+             "card_width":"495",
+             "show_icons":"true",
+             "rank_icon":"github"}
+          path: profile/stats_dark.svg
+          token: ${{ secrets.PAT }}
+
+      - name: Generate Light Wakatime Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
           options: >
             {"username":"ximon",
-             "theme":"transparent",
+             "theme":"default",
              "hide_title":"true",
              "range":"last_7_days",
              "langs_count":"5"}
-          path: profile/wakatime.svg
+          path: profile/wakatime_light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Dark Wakatime Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: >
+            {"username":"ximon",
+             "theme":"github_dark",
+             "hide_title":"true",
+             "range":"last_7_days",
+             "langs_count":"5"}
+          path: profile/wakatime_dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
