@@ -54,7 +54,7 @@ jobs:
              "range":"last_7_days",
              "langs_count":"5"}
           path: profile/wakatime_light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Generate Dark Wakatime Card
         uses: readme-tools/github-readme-stats-action@v1
@@ -67,7 +67,7 @@ jobs:
              "range":"last_7_days",
              "langs_count":"5"}
           path: profile/wakatime_dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit cards
         run: |
