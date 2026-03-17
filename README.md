@@ -19,5 +19,5 @@
 ---
 
 <div align="center">
-"In theory, theory and practice are the same. In practice, they’re not."
+"I write code for the same reason we still play chess."
 </div>
