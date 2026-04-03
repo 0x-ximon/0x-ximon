@@ -112,11 +112,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >10 hrs 44 mins</text>
+      >9 hrs 48 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="46.25%">
+      <svg data-testid="lang-progress" width="48.63%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >6 hrs 40 mins</text>
+      >5 hrs 14 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="28.69%">
+      <svg data-testid="lang-progress" width="26.02%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -158,11 +158,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 44 mins</text>
+      >2 hrs 21 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="11.78%">
+      <svg data-testid="lang-progress" width="11.71%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -181,11 +181,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >2 hrs 29 mins</text>
+      >2 hrs 14 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="10.7%">
+      <svg data-testid="lang-progress" width="11.11%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -204,11 +204,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >39 mins</text>
+      >29 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="2.84%">
+      <svg data-testid="lang-progress" width="2.41%">
         <rect
             height="8"
             fill="#2f80ed"
