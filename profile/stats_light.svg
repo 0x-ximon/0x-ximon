@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Simon Samuel's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1489, Total PRs: 332, Total Issues: 15, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 23, Total Commits  (last year) : 1453, Total PRs: 332, Total Issues: 15, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.6178068721219;
+        stroke-dashoffset: 79.07063958424777;
       }
     }
   
